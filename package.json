@@ -1,0 +1,17 @@
+{
+  "name": "Shell配置导入",
+  "name_en": "importShell",
+  "main": "index.js",
+  "icon": "sign-in",
+  "version": "0.1",
+  "description": "导入AntSword Shell配置",
+  "description_en": "import AntSword shell configuration",
+  "author": {
+    "name": "Medici.Yan",
+    "email": "Medici.Yan@gmail.com"
+  },
+  "category": "",
+  "category_en": "",
+  "multiple": false,
+  "scripts": ["php", "asp", "aspx", "custom"]
+}
