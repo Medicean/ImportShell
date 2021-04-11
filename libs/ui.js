@@ -109,7 +109,7 @@ class UI {
               title: LANG['confirm']['title']
             }, (_) => {
               // location.reload();
-              antSword.remote.app.quit();
+              antSword.remote.app.exit();
             }, (_) => {
               this.win.win.close();
             });

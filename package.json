@@ -3,7 +3,7 @@
   "name_en": "importShell",
   "main": "index.js",
   "icon": "sign-in",
-  "version": "0.2",
+  "version": "0.3",
   "description": "导入AntSword Shell配置",
   "description_en": "import AntSword shell configuration",
   "author": {
